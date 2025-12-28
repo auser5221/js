@@ -1,353 +1,208 @@
-![[Pasted image 20251224145917.png]]
-![[Pasted image 20251224150439.png]]
-![[Pasted image 20251224150555.png]]
-![[Pasted image 20251224150721.png]]
-![[Pasted image 20251224150821.png]]
-![[Pasted image 20251224151005.png]]
-const - block specific also
-![[Pasted image 20251224153645.png]]
- ![[Pasted image 20251224154120.png]]
-![[Pasted image 20251224154309.png]]
-![[Pasted image 20251224154418.png]]
-![[Pasted image 20251224154702.png]]
-![[Pasted image 20251224155831.png]]
-![[Pasted image 20251224155911.png]]
-![[Pasted image 20251224160113.png]]
-![[Pasted image 20251224160248.png]]
-![[Pasted image 20251224160337.png]]
-![[Pasted image 20251224160512.png]]
-![[Pasted image 20251224163232.png]]
-![[Pasted image 20251224163254.png]]
-![[Pasted image 20251224163632.png]]
+https://github.com/auser5221/js/blob/main/
+![image](https://github.com/auser5221/rct/blob/main/Pasted%20image%2020251227134004.png)
 
-![[Pasted image 20251224163756.png]]
-![[Pasted image 20251224163925.png]]
-![[Pasted image 20251224163954.png]]
-![[Pasted image 20251224164108.png]]
-![[Pasted image 20251224164210.png]]
-![[Pasted image 20251224164327.png]]
-![[Pasted image 20251224164443.png]]
-let - no hoisting
-![[Pasted image 20251224165030.png]]
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224145917.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224150439.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224150555.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224150721.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224150821.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224151005.png) 
+const - block specific also 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224153645.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224154120.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224154309.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224154418.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224154702.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224155831.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224155911.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224160113.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224160248.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224160337.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224160512.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224163232.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224163254.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224163632.png)
 
-JS - single threaded, tasks are switched among.
-![[Pasted image 20251224165314.png]]
-![[Pasted image 20251224170256.png]]
-![[Pasted image 20251224172001.png]]
-![[Pasted image 20251224172134.png]]
-![[Pasted image 20251224172208.png]]
-![[Pasted image 20251224172402.png]]
-![[Pasted image 20251224172534.png]]
-![[Pasted image 20251224175153.png]]
-![[Pasted image 20251224175331.png]]
-![[Pasted image 20251224175346.png]]
-![[Pasted image 20251227142113.png]]
-![[Pasted image 20251227144523.png]]
-![[Pasted image 20251227144727.png]]
-![[Pasted image 20251227144919.png]]
-![[Pasted image 20251227145048.png]]
-![[Pasted image 20251227145246.png]]
-![[Pasted image 20251227145421.png]]
-![[Pasted image 20251227145443.png]]
-![[Pasted image 20251227145546.png]]
-![[Pasted image 20251227145844.png]]
-![[Pasted image 20251227145931.png]]
-![[Pasted image 20251227150142.png]]
-![[Pasted image 20251227150354.png]]
-![[Pasted image 20251227151032.png]]
- ![[Pasted image 20251227151119.png]]
-![[Pasted image 20251227151614.png]]
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224163756.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224163925.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224163954.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224164108.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224164210.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224164327.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224164443.png) 
+let - no hoisting 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224165030.png)
+
+JS - single threaded, tasks are switched among. 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224165314.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224170256.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224172001.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224172134.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224172208.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224172402.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224172534.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224175153.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224175331.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224175346.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227142113.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227144523.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227144727.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227144919.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227145048.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227145246.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227145421.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227145443.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227145546.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227145844.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227145931.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227150142.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227150354.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227151032.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227151119.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227151614.png) 
 Sort is by default for strings not numbers 
-![[Pasted image 20251227151751.png]]
-![[Pasted image 20251227151841.png]]
-![[Pasted image 20251227151926.png]]
-![[Pasted image 20251227152212.png]]
-![[Pasted image 20251227152329.png]]
-![[Pasted image 20251227152339.png]]
-![[Pasted image 20251227152551.png]]
-![[Pasted image 20251227152627.png]]
-![[Pasted image 20251227152718.png]]
-![[Pasted image 20251227152822.png]]
-![[Pasted image 20251227152956.png]]
-![[Pasted image 20251227153122.png]]
-![[Pasted image 20251227153303.png]]
-![[Pasted image 20251227153455.png]]
-![[Pasted image 20251227153517.png]]
-![[Pasted image 20251227154030.png]]
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227151751.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227151841.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227151926.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152212.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152329.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152339.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152551.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152627.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152718.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152822.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227152956.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227153122.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227153303.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227153455.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227153517.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227154030.png)
 
-![[Pasted image 20251224163632.png]]
-![[Pasted image 20251227154243.png]]
-![[Pasted image 20251227154421.png]]
-![[Pasted image 20251227154558.png]]
-![[Pasted image 20251227154822.png]]
-![[Pasted image 20251227154854.png]]
-![[Pasted image 20251227155027.png]]
-![[Pasted image 20251227155120.png]]
-![[Pasted image 20251227155227.png]]
-![[Pasted image 20251227155404.png]]
-![[Pasted image 20251227155618.png]]
-![[Pasted image 20251227160003.png]]
-![[Pasted image 20251227160504.png]]
-![[Pasted image 20251227160525.png]]
-![[Pasted image 20251227160553.png]]
-![[Pasted image 20251227160656.png]]
-![[Pasted image 20251227160750.png]]
-![[Pasted image 20251227160859.png]]
-![[Pasted image 20251227160939.png]]
-![[Pasted image 20251227160953.png]]
-![[Pasted image 20251224154309.png]]
-![[Pasted image 20251227161054.png]]
-![[Pasted image 20251224154418.png]]
-![[Pasted image 20251229020922.png]]
-![[Pasted image 20251229021011.png]]
-![[Pasted image 20251229021051.png]]
-textContent - Assign plain text to element
-![[Pasted image 20251229025438.png]]
-![[Pasted image 20251229025607.png]]
-![[Pasted image 20251229025826.png]]
-![[Pasted image 20251229025931.png]]
-![[Pasted image 20251229030016.png]]
-![[Pasted image 20251224165030.png]]
-![[Pasted image 20251229030215.png]]
-![[Pasted image 20251229030358.png]]
-![[Pasted image 20251229030438.png]]
-![[Pasted image 20251229030550.png]]
-![[Pasted image 20251229030638.png]]
-![[Pasted image 20251229030654.png]]
-![[Pasted image 20251224164210.png]]
-![[Pasted image 20251229030940.png]]
-![[Pasted image 20251229031016.png]]
-![[Pasted image 20251229031044.png]]
-![[Pasted image 20251229031235.png]]
-![[Pasted image 20251229031334.png]]
-![[Pasted image 20251229031416.png]]
-.parse - converts into objects
-![[Pasted image 20251229031611.png]]
-shallow - only in nested copies values can be changed
-![[Pasted image 20251229031827.png]]
-![[Pasted image 20251229032055.png]]
-Map - can have any type of key
-![[Pasted image 20251229032506.png]]
-![[Pasted image 20251229032544.png]]
-![[Pasted image 20251229032553.png]]
-![[Pasted image 20251229032649.png]]
-![[Pasted image 20251229032751.png]]
-![[Pasted image 20251229032815.png]]
-![[Pasted image 20251229032947.png]]
-![[Pasted image 20251229033133.png]]
-![[Pasted image 20251229033358.png]]
-![[Pasted image 20251229033522.png]]
-![[Pasted image 20251229033631.png]]
-by default - false
-![[Pasted image 20251229033722.png]]
-![[Pasted image 20251229033835.png]]
-![[Pasted image 20251229034006.png]]
-![[Pasted image 20251229034108.png]]
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224163632.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227154243.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227154421.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227154558.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227154822.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227154854.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227155027.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227155120.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227155227.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227155404.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227155618.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160003.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160504.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160525.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160553.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160656.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160750.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160859.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160939.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227160953.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224154309.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251227161054.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224154418.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229020922.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229021011.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229021051.png) 
+textContent - Assign plain text to element 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229025438.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229025607.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229025826.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229025931.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030016.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224165030.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030215.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030358.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030438.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030550.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030638.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030654.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224164210.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229030940.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229031016.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229031044.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229031235.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229031334.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229031416.png) 
+.parse - converts into objects 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229031611.png) 
+shallow - only in nested copies values can be changed 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229031827.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032055.png) 
+Map - can have any type of key 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032506.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032544.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032553.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032649.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032751.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032815.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229032947.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229033133.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229033358.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229033522.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229033631.png) 
+by default - false 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229033722.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229033835.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229034006.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229034108.png)
 
 Chapter - 12
 
-![[Pasted image 20251224164327.png]]
-![[Pasted image 20251229034336.png]]
-closure uses lexical scoping, no return in lexical scoping
-![[Pasted image 20251229034515.png]]
- Closure uses last modified values
-![[Pasted image 20251229034856.png]]
-![[Pasted image 20251229035010.png]]
-![[Pasted image 20251229043803.png]]
-![[Pasted image 20251229035321.png]]
-![[Pasted image 20251229035356.png]]
-![[Pasted image 20251229035617.png]]
-![[Pasted image 20251229035712.png]]
-No need to define resolve and reject built-in js functions
-![[Pasted image 20251229035848.png]]
-![[Pasted image 20251229040031.png]]
- ![[Pasted image 20251229040148.png]]
- });
- 
-![[Pasted image 20251229040552.png]]
-![[Pasted image 20251229040654.png]]
-![[Pasted image 20251229040740.png]]
-![[Pasted image 20251229040826.png]]
-![[Pasted image 20251229040529.png]]
-![[Pasted image 20251229041153.png]]
-![[Pasted image 20251229041420.png]]
-![[Pasted image 20251229041538.png]]
-![[Pasted image 20251229041654.png]]
-![[Pasted image 20251229041828.png]]
-![[Pasted image 20251229041936.png]]
-![[Pasted image 20251229042052.png]]
-local - username, cred session- form data, cart
-![[Pasted image 20251229042238.png]]
-![[Pasted image 20251229042323.png]]
-![[Pasted image 20251229042434.png]]
-![[Pasted image 20251229042458.png]]
-![[Pasted image 20251229042546.png]]
-![[Pasted image 20251229042606.png]]
-![[Pasted image 20251229042634.png]]
-![[Pasted image 20251229042714.png]]
-![[Pasted image 20251229042744.png]]
-![[Pasted image 20251229042821.png]]
-
-How to get typing suggestions
-![[Pasted image 20251229043543.png]]
-
-![[Pasted image 20251229043112.png]]
-![[Pasted image 20251229043132.png]]
-![[Pasted image 20251229043203.png]]
-![[Pasted image 20251229043223.png]]
-![[Pasted image 20251229043306.png]]
-![[Pasted image 20251229043338.png]]
-![[Pasted image 20251229043359.png]]
-![[Pasted image 20251229043415.png]]
-![[Pasted image 20251229043439.png]]
-![[Pasted image 20251229043522.png]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[Pasted image 20251224151518.png]]
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224164327.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229034336.png) 
+closure uses lexical scoping, no return in lexical scoping 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229034515.png) 
+Closure uses last modified values 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229034856.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229035010.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043803.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229035321.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229035356.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229035617.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229035712.png) 
+No need to define resolve and reject built-in js functions 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229035848.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229040031.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229040148.png) 
+
+
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229040552.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229040654.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229040740.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229040826.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229040529.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229041153.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229041420.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229041538.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229041654.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229041828.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229041936.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042052.png) 
+local - username, cred session- form data, cart 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042238.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042323.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042434.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042458.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042546.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042606.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042634.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042714.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042744.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229042821.png)
+
+How to get typing suggestions 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043543.png)
+
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043112.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043132.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043203.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043223.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043306.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043338.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043359.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043415.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043439.png) 
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251229043522.png)
+
+![image](https://github.com/auser5221/js/blob/main/Pasted%20image%2020251224151518.png)
